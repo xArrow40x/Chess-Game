@@ -1,5 +1,5 @@
 package com.samuelarocho.chessgame.Models.Game;
 
-public class board {
+public class Board {
     
 }
