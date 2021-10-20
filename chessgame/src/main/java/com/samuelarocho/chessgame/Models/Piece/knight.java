@@ -1,5 +1,5 @@
 package com.samuelarocho.chessgame.Models.Piece;
 
-public class knight {
+public class Knight {
     
 }
