@@ -1,5 +1,8 @@
 package com.samuelarocho.chessgame.Models.Game;
 
-public class board {
+import lombok.Data;
+
+@Data
+public class Board {
     
 }

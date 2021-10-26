@@ -1,5 +1,8 @@
 package com.samuelarocho.chessgame.Models.Game;
 
-public class player {
+import lombok.Data;
+
+@Data
+public class Player {
     
 }

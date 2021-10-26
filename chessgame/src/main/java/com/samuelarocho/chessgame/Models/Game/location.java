@@ -1,5 +1,5 @@
 package com.samuelarocho.chessgame.Models.Game;
 
-public class location {
+public class Location {
     
 }

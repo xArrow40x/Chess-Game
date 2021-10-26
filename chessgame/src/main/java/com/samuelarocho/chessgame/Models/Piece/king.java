@@ -1,5 +1,8 @@
 package com.samuelarocho.chessgame.Models.Piece;
 
-public class king {
+import lombok.Data;
+
+@Data
+public class King {
     
 }

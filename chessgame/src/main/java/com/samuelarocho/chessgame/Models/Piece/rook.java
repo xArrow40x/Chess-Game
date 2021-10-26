@@ -1,5 +1,5 @@
 package com.samuelarocho.chessgame.Models.Piece;
 
-public class rook {
+public class Rook {
     
 }
