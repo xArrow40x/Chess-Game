@@ -15,7 +15,7 @@ public class Pawn extends Piece {
         this.type = Type.PAWN;
     }
 
-    public boolean validPath(int finalX, int finalY){   // this is the path that is valid for a pawn
+    public boolean validPath(int finalX, int finalY){   // this is the path that is valid for a pawn, not including when it can eat other pieces (left or right need to be added)
         if (finalY-startY==1){
             return true;
         } else{
