@@ -10,5 +10,4 @@ public abstract class Game {
     Player player2 = new Player();
     Type chess = new Type();
     Type pokeChess = new Type();
-    
 }
